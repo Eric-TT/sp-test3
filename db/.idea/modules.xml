@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db-common/src/main/main.iml" filepath="$PROJECT_DIR$/db-common/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-order/src/main/main1.iml" filepath="$PROJECT_DIR$/db-order/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-cart/src/main/main2.iml" filepath="$PROJECT_DIR$/db-cart/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-manage/src/main/main3.iml" filepath="$PROJECT_DIR$/db-manage/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-web/src/main/main4.iml" filepath="$PROJECT_DIR$/db-web/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db-sso/src/main/main5.iml" filepath="$PROJECT_DIR$/db-sso/src/main/main5.iml" />
+    </modules>
+  </component>
+</project>

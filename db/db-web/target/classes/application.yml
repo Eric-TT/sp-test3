@@ -1,0 +1,16 @@
+server:
+  port: 9092    
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+dubbo:
+  scan:
+    basePackages: com.db
+  application:
+    name: consumer-dbuser
+  registry:
+    address: zookeeper://192.168.32.130:2182?backup=192.168.32.130:2183,192.168.32.130:2184 # 集群
+
+  

@@ -1,0 +1,20 @@
+server:
+  port: 8091
+  servlet:
+    context-path: / #默认的发布路径就是/
+    
+#案例1为属性赋值
+jdbc:
+  url: mysql的url
+  driverName: mysql的数据库
+  userName: 用户名A
+  
+cat:
+  id: mysql的id
+  work: mysql的work
+  password: sdsad
+
+#案例2
+jdbcb:
+  jdbcName: mysql
+  jdbcDrvicer: mysql驱动

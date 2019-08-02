@@ -1,0 +1,25 @@
+#语法使用---环境的分割
+
+#程序启动时指定环境进行加载
+spring:  profiles:    active: prod
+
+
+---   #第一个环境dev
+
+spring:  profiles: dev  #为该环境指定一个名称
+server:  port: 8080
+  servlet:    context-path: /
+    
+---   
+spring:
+  profiles: test  #为该环境指定一个名称
+    
+server:  port: 8090
+  servlet:    context-path: /test
+    
+---
+spring:
+  profiles: prod  #为该环境指定一个名称
+    
+server:  port: 9000
+  servlet:    context-path: /prod
