@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c985ae66-dfb3-4933-a8cd-a2b645834489" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/ItemService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/CookieUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../config/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config/config/item-service-dev.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config/config/order-service-dev.yml" beforeDir="false" />
@@ -21,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/../config/order-service-dev.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config/user-service-dev.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config/zuul-dev.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sp02-itemservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sp02-itemservice/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sp02-itemservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../sp02-itemservice/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sp03-userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sp03-userservice/pom.xml" afterDir="false" />
@@ -237,7 +226,7 @@
       <updated>1564627299071</updated>
       <workItem from="1564627304766" duration="2771000" />
       <workItem from="1564630159393" duration="1571000" />
-      <workItem from="1564799288340" duration="3990000" />
+      <workItem from="1564799288340" duration="4365000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1564802887801</created>
@@ -253,16 +242,23 @@
       <option name="project" value="LOCAL" />
       <updated>1564803186665</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1564803434500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564803434500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8332000" />
+    <option name="totallyTimeSpent" value="8707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
